@@ -2,7 +2,7 @@
 
 Craft access to [phpColors](https://github.com/mexitek/phpColors) library and methods
 
-![Screenshot](resources/screenshots/COLORS-still-011-x)
+![Screenshot](resources/screenshots/COLORS-still-011-x.jpg)
 
 
 ## Installation
